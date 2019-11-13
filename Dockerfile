@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.16.0
+FROM quay.io/external_storage/nfs-client-provisioner:latest
