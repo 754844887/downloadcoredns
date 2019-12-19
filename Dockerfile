@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.4.3
+FROM k8s.gcr.io/kube-apiserver:v1.17.0
