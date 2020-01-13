@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.11.0
+FROM quay.io/prometheus/prometheus:v2.11.0
