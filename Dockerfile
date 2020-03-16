@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.11.0
+FROM docker.io/prom/prometheus:v2.15.1
