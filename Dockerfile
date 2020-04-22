@@ -1,1 +1,1 @@
-FROM quay.io/coreos/etcd:latest
+FROM gcr.io/kubernetes-helm/tiller:v2.13.1
