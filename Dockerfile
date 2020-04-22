@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-service-catalog/service-catalog:v0.2.1
+FROM quay.io/coreos/etcd:latest
