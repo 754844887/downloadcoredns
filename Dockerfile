@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-attacher:v2.1.0
+FROM quay.io/kubernetes-service-catalog/service-catalog:v0.2.1
