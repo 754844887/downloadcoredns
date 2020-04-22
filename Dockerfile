@@ -1,1 +1,1 @@
-FROM quay.io/kiali/kiali:v1.14
+FROM quay.io/k8scsi/csi-provisioner:v1.5.0
