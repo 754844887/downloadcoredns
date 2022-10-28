@@ -1,1 +1,1 @@
-FROM docker.io/calico/node:v3.22.2
+FROM k8s.gcr.io/metrics-server/metrics-server
